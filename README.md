@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi there! 👋 I'm Faiza Arshad</h1>
-<h3 align="center">🚀 Software Engineer | Full-Stack & Java Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack & Java Enthusiast</h3>
 
 <p align="center">
 Building scalable web applications with <strong>Java, React, Node.js, and AWS</strong>. Passionate about <strong>DSA, system design, and problem-solving</strong>.
