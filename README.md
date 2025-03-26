@@ -3,11 +3,24 @@
 -->
 
 <h1 align="center">Hi there! 👋 I'm Faiza Arshad</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack & Java Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | Full-Stack & Java Enthusiast</h3>
 
 <p align="center">
 Building scalable web applications with <strong>Java, React, Node.js, and AWS</strong>. Passionate about <strong>DSA, system design, and problem-solving</strong>.
 </p>
+
+---
+
+### 🔥 About Me:
+
+- 🔭 **Currently working on:** A full-stack **web application** using Java, Spring Boot & React  
+- 🌱 **Currently learning:** **Advanced System Design, Distributed Systems & DevOps**  
+- 👯 **Looking to collaborate on:** Open-source **full-stack projects & cloud applications**  
+- 🤔 **Looking for help with:** **Optimizing backend performance & microservices architecture**  
+- 💬 **Ask me about:** Java, DSA, System Design, Web Development & AWS  
+- 📫 **How to reach me:** DM me on **[LinkedIn](https://www.linkedin.com/in/faiza-arshad-22332a277)** or **[Instagram](https://www.instagram.com/fayeztagramm/)**  
+- 😄 **Pronouns:** She/Her  
+- ⚡ **Fun fact:** I love **competitive programming & debugging complex issues!**  
 
 ---
 
@@ -54,7 +67,6 @@ Building scalable web applications with <strong>Java, React, Node.js, and AWS</s
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
 </p>
-
 
 ---
 
